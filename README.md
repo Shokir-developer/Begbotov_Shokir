@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on UNICON-SOFT [For Information Technology Ministry](http://amtc.uz)
 
-- 🌱 I’m currently learning and working with **Django framework, Rest API and PostgreSql, Deployment**
+- 🌱 I’m currently learning and working with **Django framework, Rest API and PostgreSql, Deployment, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shokir-developer](https://github.com/Shokir-developer)
 
-- 💬 Ask me about **python, django, deployment and Unit test**
+- 💬 Ask me about **python, django, AI, deployment and Unit test**
 
 - 📫 How to reach me **begbotovshake@gmail.com**
 
